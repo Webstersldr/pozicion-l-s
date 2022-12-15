@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+
+#keret{
+    background-color: cornsilk;
+    width: 880px;
+    margin: auto;
+    color: red;
+    height: 1200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 35px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    position: relative;
+}
+
+#szoveg{
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+
+}
